@@ -4,7 +4,7 @@
 
 ## Формат
 Список представлен файлами:
-`arch`, `gentoo`, `debian`, `ubuntu`, `devuan`, `slackware`, `other`.  
+`arch`, `gentoo`, `debian`, `slackware`, `other`.  
 В них строки формата `название=ссылка`.  
 Думаю как делятся дистрибутивы понятно.  
 
