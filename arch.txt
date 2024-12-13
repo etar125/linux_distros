@@ -1,0 +1,7 @@
+artixlinux=https://artixlinux.org/
+obarun=https://web.obarun.org/
+joborun=https://joborun.neocities.org/joborun
+parabola=https://www.parabola.nu/
+athenaos=https://athenaos.org/
+spark=https://fleshless.org/pages/spark.html
+alphaos=https://alphaos.tuxfamily.org/

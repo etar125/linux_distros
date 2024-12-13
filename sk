@@ -1,5 +1,5 @@
 #!/bin/sh
-files="debian arch gentoo slackware other"
+files="debian.txt arch.txt gentoo.txt slackware.txt other.txt"
 for file in $files; do
     echo $file": $(cat "$file" | wc -l)"
 done
