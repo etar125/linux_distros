@@ -1,16 +1,16 @@
-rem код дала нейросетка, хз работает ли
-
 @echo off
 
 set files=debian.txt arch.txt gentoo.txt slackware.txt other.txt
 
 for %%f in (%files%) do (
-    type "%%f" | find /c /v ""
-    echo %%f: %errorlevel%
+    for /f %%i in ('type "%%f" ^| find /c /v ""') do set /a lines_in_file=%%i
+    echo %%f: %lines_in_file%
 )
 
-set total_lines=0
-for %%f in (%files%) do (
+echo total:
+for %%f in (%files%) do ( 
     for /f %%i in ('type "%%f" ^| find /c /v ""') do set /a total_lines+=%%i
 )
-echo "total: %total_lines%"
+echo %total_lines%
+
+pause
