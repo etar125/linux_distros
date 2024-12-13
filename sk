@@ -3,5 +3,5 @@ files="debian arch gentoo slackware other"
 for file in $files; do
     echo $file": $(cat "$file" | wc -l)"
 done
-total_lines=$(for file in $files ; do cat "$file" | awk '{sum+=$0} END {print sum}' ; done)
+total_lines=$(for file in $files ; do cat "$file" ; done | wc -l)
 echo "total: "$total_lines
