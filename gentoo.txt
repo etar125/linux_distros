@@ -1,0 +1,8 @@
+gentoo=https://www.gentoo.org/
+funtoo=https://www.funtoo.org/
+calculatelinux=https://www.calculate-linux.org/
+redcorelinux=https://redcorelinux.org/
+pentoo=https://www.pentoo.ch/
+daphile=https://www.daphile.com/
+garyos=https://garybgenett.net/projects/gary-os/
+exgent64bitlinuxlivesystem=https://sourceforge.net/projects/exgent/
