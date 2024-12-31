@@ -271,3 +271,5 @@ clearlinux=https://clearlinux.org/
 bedrocklinux=https://bedrocklinux.org/
 rockylinux=https://rockylinux.org/
 exherbo=http://exherbo.org/
+uncomos=https://uncom.tech/
+alteros=https://almi-partner.ru/alter-os/
