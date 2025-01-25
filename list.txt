@@ -287,3 +287,7 @@ scientificlinux=https://scientificlinux.org/
 wubuntu=https://wubuntu.org/
 uos=https://www.chinauos.com/
 puppyrus=https://puppyrus.org/
+aldos=https://www.alcancelibre.org/aldos
+chromiumos=https://www.chromium.org/chromium-os/
+devil-linux=https://sourceforge.net/projects/devil-linux/
+linuxbbq=https://linuxbbq.com/
