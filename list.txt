@@ -291,3 +291,5 @@ aldos=https://www.alcancelibre.org/aldos
 chromiumos=https://www.chromium.org/chromium-os/
 devil-linux=https://sourceforge.net/projects/devil-linux/
 linuxbbq=https://linuxbbq.com/
+xenialinux=https://xenialinux.com/
+ximperlinux=https://ximperlinux.ru/
