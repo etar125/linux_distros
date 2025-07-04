@@ -305,3 +305,4 @@ asahilinux=https://asahilinux.org/
 eurolinux=https://euro-linux.com/en/
 archlinux=https://archlinux.org/
 lingmo=https://lingmo.org/
+ublinux=https://ublinux.ru/
