@@ -1,2 +1,2 @@
 #!/bin/sh
-echo "total:" $(cat "list.txt" | wc -l)
+cat "list.txt" | wc -l
